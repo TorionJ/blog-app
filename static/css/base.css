@@ -17,6 +17,7 @@ header {
 .nav-right {
     display: flex;
     padding-top: 2rem;
+    text-decoration: none;
 }
 .post-entry {
     margin-bottom: 2rem;
